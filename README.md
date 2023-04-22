@@ -7,4 +7,5 @@
 - Several project management methodologies may be employed during program development. One such tactic is the waterfall methodology. It aids in predicting requirements and implementing particular strategies. Iterative, prototype, agile, and progressive methodologies are also used. Crystal, Scrum, Extreme Programming, and other well-known agile methodologies should be incorporated. These methodologies and procedures provide different approaches to testing, planning, and integration.
 
 3- What does it mean to be a good team member in software development?
+
 - In the programming and design phases, a good team member adheres to the team standards and project approaches. It is critical for the team to retain a sense of accomplishment. All factors of project development ought to be taken into account. One ought to respond in a kind manner and accept responsibility for one's actions.
